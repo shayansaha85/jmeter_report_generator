@@ -1,0 +1,17 @@
+2021-03-31 21:12:38,424 WARN o.a.j.u.JMeterUtils: Exception 'null' occurred when fetching String property:'sampleresult.default.encoding', defaulting to: ISO-8859-1
+2021-03-31 21:12:38,438 WARN o.a.j.u.JMeterUtils: Exception 'null' occurred when fetching String property:'jmeterPlugin.prefixPlugins'
+2021-03-31 21:12:38,439 INFO k.a.j.PluginsCMDWorker: Using JMeterPluginsCMD v. N/A
+2021-03-31 21:12:38,443 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2021-03-31 21:12:38,469 INFO k.a.j.JMeterPluginsUtils: Loading user properties from: F:\coding_projects\vscode\jmeter_report_gen\jmeter-app\bin\user.properties
+2021-03-31 21:12:38,470 INFO k.a.j.JMeterPluginsUtils: Loading system properties from: F:\coding_projects\vscode\jmeter_report_gen\jmeter-app\bin\system.properties
+2021-03-31 21:12:39,064 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2021-03-31 21:12:39,064 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2021-03-31 21:12:39,279 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-03-31 21:12:39,303 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-03-31 21:12:39,309 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-03-31 21:12:39,318 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-03-31 21:12:39,318 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-03-31 21:12:39,318 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-03-31 21:12:39,318 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-03-31 21:12:39,322 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-03-31 21:12:39,325 INFO k.a.j.v.AggregateReportGui: Saving CSV to f:\coding_projects\vscode\jmeter_report_gen\aggregate_report\demo_opencart_aggregateReport.csv
